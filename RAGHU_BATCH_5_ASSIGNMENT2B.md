@@ -1,7 +1,7 @@
-# RAGHU_BATCH_4_ASSIGNMENT2B
+# RAGHU_BATCH_5_ASSIGNMENT2B
 
 ## Assignment 2A git hub link:
-[RAGHU_BATCH_4_ASSIGNMENT2A.ipynb](https://github.com/rraghu214/MLBLR/blob/master/RAGHU_BATCH_4_ASSIGNMENT2A.ipynb)
+[RAGHU_BATCH_5_ASSIGNMENT2A.ipynb](https://github.com/rraghu214/MLBLR/blob/master/RAGHU_BATCH_5_ASSIGNMENT2A.ipynb)
 
 ## Assignment 2B: Neural Network Computation 
 #####  -- Forward Propogation and Back Propogation
@@ -16,7 +16,7 @@ print((X))
 y=np.array([[1],[1],[0]])
 print("\n y is \n")
 print(y)
-```
+```[RAGHU_BATCH_5_ASSIGNMENT2B.md](\:storage\0.tzbfoj06oel.md)
 
 X is 
 
@@ -88,7 +88,7 @@ print(hiddenlayer_activations)
  #### Step 4: Perform linear and non-linear transformation of hidden layer activation at output layer
  
  output_layer_input = matrix_dot_product (hiddenlayer_activations * wout ) + bout 
- output = sigmoid(output_layer_input)
+ output = reLu(output_layer_input)
  
  ```python
 wout=np.random.uniform(-1,1,[3,1])
