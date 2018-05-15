@@ -16,7 +16,7 @@ print((X))
 y=np.array([[1],[1],[0]])
 print("\n y is \n")
 print(y)
-```[RAGHU_BATCH_5_ASSIGNMENT2B.md](\:storage\0.tzbfoj06oel.md)
+```
 
 X is 
 
