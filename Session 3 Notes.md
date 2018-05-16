@@ -1,15 +1,15 @@
 # Session 3 Notes...
 
-The Checkerboard issue
-Dilated Convolution
-Fractionally Shreded Convolution or Deconvolution
-Depthwise Convolution
-Seperable Convolution - Winograd
-Grouped Convolution
-Dropout
-Residual Blocks
-Max Pooling
-1 X 1 Convolution
+1. The Checkerboard issue
+2. Dilated Convolution
+3. Fractionally Shreded Convolution or Deconvolution
+4. Depthwise Convolution
+5. Seperable Convolution - Winograd
+6. Grouped Convolution
+7. Dropout
+8. Residual Blocks
+9. Max Pooling
+10. 1 X 1 Convolution
 
 ##### Architectural Basics
 
